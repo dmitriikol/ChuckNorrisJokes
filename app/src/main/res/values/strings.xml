@@ -5,4 +5,7 @@
     <string name="title_joke_item_nav">Jokes</string>
     <string name="title_web_item_nav">Web</string>
 
+    <string name="edit_text_jokes">Count</string>
+    <string name="button_reload_jokes">Reload</string>
+
 </resources>
