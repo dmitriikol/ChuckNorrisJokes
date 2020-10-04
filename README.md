@@ -5,7 +5,7 @@
 
 ## Screenshots
 
-<table style="width:100%">
+<table style="width:50%">
   <tr>
     <th>1. Jokes</th>
     <th>2. Api info</th>
